@@ -1,0 +1,3 @@
+C:\Users\diamantove\source\repos\VirtualGallery\VirtualGallery\x64\Debug\VirtualGallery.vcxproj.MdMergeInputs.cache
+C:\Users\diamantove\source\repos\VirtualGallery\VirtualGallery\x64\Debug\VirtualGallery.vcxproj.cppwinrt_plat.cache
+C:\Users\diamantove\source\repos\VirtualGallery\VirtualGallery\x64\Debug\VirtualGallery.vcxproj.cppwinrt_comp.cache
